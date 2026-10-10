@@ -1,0 +1,6 @@
+{
+  "name": "CleanExpert - 프리미엄 가정방문 청소 전문",
+  "description": "청소를 맡기면 내 시간이 돌아옵니다. 원하는 날짜와 시간을 선택하는 프리미엄 홈클리닝 서비스 CleanExpert",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
